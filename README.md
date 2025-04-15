@@ -1,8 +1,10 @@
 # MiniOS 项目  
 
 ## 说明
-- 本项目基于浙江大学24年秋冬操作实验进行，最终实现了有最基本功能的OS kernel
-```https://zju-sec.github.io/os24fall-stu/```
+- 本项目基于浙江大学24年秋冬操作实验进行，实现满足最基本功能的OS kernel
+```
+https://zju-sec.github.io/os24fall-stu/
+```
 
 ## 环境要求
 

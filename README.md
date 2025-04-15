@@ -49,4 +49,12 @@ make run
 SHELL >
 ```
 
-说明 MiniOS 内核已成功启动。
+用户可以输入：
+```
+echo "hello world!"   
+```
+然后按回车键，如果屏幕正确显示：
+```
+hello world! 
+```
+说明最基本的输入输出交互功能没有问题，MiniOS成功启动

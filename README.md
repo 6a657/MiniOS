@@ -27,7 +27,7 @@ sudo apt install autoconf automake autotools-dev curl libmpc-dev libmpfr-dev lib
 sudo apt install qemu-system-misc
 ```
 
-## 4. 启动项目
+### 4. 启动项目
 
 在项目根目录下执行：
 
@@ -35,7 +35,7 @@ sudo apt install qemu-system-misc
 make run
 ```
 
-## 5. 验证启动成功
+### 5. 验证启动成功
 
 若终端最后一行显示为：
 
